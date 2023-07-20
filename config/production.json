@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "C4erries album",
+  "baseUrl": "http://localhost:5000"
+}

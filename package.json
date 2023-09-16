@@ -4,7 +4,7 @@
   "description": "",
   "main": "backend/api.js",
   "scripts": {
-    "start": "cross-env NODE_ENV=production node api.js",
+    "start": "nodemon backend/api.js",
     "frontend": "npm run start --prefix frontend",
     "frontend:install": "npm run install --prefix frontend",
     "frontend:build": "npm run build --prefix frontend",
